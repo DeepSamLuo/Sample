@@ -1,2 +1,2 @@
 # Sample
-SampleRepo
+This is the first sample repo of DeepSamLuo for test.
